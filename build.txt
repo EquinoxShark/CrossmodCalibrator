@@ -1,0 +1,4 @@
+displayName = Crossmod Calibrator
+author = EquinoxShark
+version = 0.1
+buildIgnore = Properties/*

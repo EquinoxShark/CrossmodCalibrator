@@ -1,0 +1,40 @@
+Configs: {
+	CrossmodCalibratorConfig: {
+		DisplayName: Crossmod Calibrator
+		OnlyHost: Only the host can change Crossmod Calibrator settings.
+
+		ModSettings: {
+			Label: Per-mod calibration
+			Tooltip: ""
+		}
+	}
+
+	ModCalibrationSettings: {
+		WeaponDamageMultiplier: {
+			Label: Weapon damage multiplier
+			Tooltip: Direct multiplier from 0.0001 to 10000 for weapon damage from {0}.
+		}
+
+		BossHealthMultiplier: {
+			Label: Boss health multiplier
+			Tooltip: Direct multiplier from 0.0001 to 10000 for boss health from {0}.
+		}
+
+		BossDamageMultiplier: {
+			Label: Boss damage multiplier
+			Tooltip: Direct multiplier from 0.0001 to 10000 for boss contact and projectile damage from {0}.
+		}
+
+		EnemyHealthMultiplier: {
+			Label: Enemy health multiplier
+			Tooltip: Direct multiplier from 0.0001 to 10000 for enemy health from {0}.
+		}
+
+		EnemyDamageMultiplier: {
+			Label: Enemy damage multiplier
+			Tooltip: Direct multiplier from 0.0001 to 10000 for enemy contact and projectile damage from {0}.
+		}
+
+		Tooltip: ""
+	}
+}
